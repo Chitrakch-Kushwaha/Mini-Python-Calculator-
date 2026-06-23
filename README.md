@@ -1,4 +1,4 @@
-# Mini-Python-Calculator-
+# Mini-Python-Calculator
 My first Python mini project: Menu-Driven Calculator.
 # Mini Python Calculator
 
